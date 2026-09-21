@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="ca">
+    <head>
+        <h1>Animals prehistòrics.</h1>
+    <h2> Dinosaures</h2>
+    </head>
+    <body>
+        <ul>Tirannosaure</ul>
+        <ul>Triceratops</ul>
+        <ul>Diplodocus</ul>
+<ol>
+    <a href="https://ca.wikipedia.org/wiki/Tiranosaure"> 01 Wikipedia - Tirannosaure</a>
+    <a href="https://ca.wikipedia.org/wiki/Triceratops"> 02 Wikipedia - Triceratops</a>
+<a href="https://ca.wikipedia.org/wiki/Diplodocus"> 03 Wikipedia - Diplodocus</a>
+</ol>
+  </body>
+</html>
